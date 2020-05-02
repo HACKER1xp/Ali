@@ -73,7 +73,7 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     XIDI-PAKISTANI✔
+    Author     xidipakistani
     Name       XIDI__ALI___XP
     CodeName   D3b2y
     version    full version
