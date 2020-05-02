@@ -79,8 +79,8 @@ def show_program():
     version    full version
     Date       16/05/2018 09:35:12
     Team       XP-XIDI
-    Email      ❌❌
-    Telegram   ❌❌✖
+    Email      Azamali410@gmail.com
+    Telegram   xidixp
 
 * if you find any errors or problems , please contact
   author
